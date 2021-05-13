@@ -1,0 +1,9 @@
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\Andy\Documents\CodeMachine\accumulator-cpu-chisel\src\main\scala\simpleAccProc.scala:33:10: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: Bool(), UInt()[0m
+[0m[[0m[33mwarn[0m] [0m[0m      IR.op match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\Andy\Documents\CodeMachine\accumulator-cpu-chisel\src\main\scala\simpleAccProc.scala:25:3: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: Bool(), UInt()[0m
+[0m[[0m[33mwarn[0m] [0m[0m  State match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m  ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m

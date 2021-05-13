@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\Andy\Documents\CodeMachine\accumulator-cpu-chisel\target\scala-2.12\-name-_2.12-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Instruction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Andy\Documents\CodeMachine\accumulator-cpu-chisel\target\scala-2.12\classes\Instruction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	simpleAccProc$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Andy\Documents\CodeMachine\accumulator-cpu-chisel\target\scala-2.12\classes\simpleAccProc$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	simpleAccProc$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Andy\Documents\CodeMachine\accumulator-cpu-chisel\target\scala-2.12\classes\simpleAccProc$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	simpleAccProc$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Andy\Documents\CodeMachine\accumulator-cpu-chisel\target\scala-2.12\classes\simpleAccProc$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	simpleAccProc.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Andy\Documents\CodeMachine\accumulator-cpu-chisel\target\scala-2.12\classes\simpleAccProc.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
